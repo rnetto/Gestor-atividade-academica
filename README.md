@@ -1,1 +1,1 @@
-# Gestor-atividade
+# Gestor de atividades acadêmicas
